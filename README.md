@@ -1,6 +1,6 @@
 ## Meu nome é Cosme, qualquer coisa tamos aí!
 - 👀 Anime e J-RPG.
-- 🌱 HTML | CSS | Java no meio do caminho XD atualmente, futuramente React.Js dá massa!
+- 🌱 HTML | CSS | Java | React.Js dá massa!
 
 <div align="center">
   <a href="https://github.com/cosme7">
